@@ -1,7 +1,7 @@
-# CarPricePredictor_LinearRegression
+# Used-Car-Price-Predictor-Linear-Regression
 
-## Car Price Recommendation System using Linear Regression
-This project implements a machine learning model to predict the price of cars based on various features. The model is built using the scikit-learn library in Python and utilizes a Linear Regression algorithm. Categorical features are encoded using the One Hot Encoding technique.
+## Used Car Price Recommendation System using Linear Regression
+This project implements a machine learning model to predict the price of used cars based on various features. The model is built using the scikit-learn library in Python and utilizes a Linear Regression algorithm. Categorical features are encoded using the One Hot Encoding technique.
 
 ## Data
 - `Car Data.csv`: CSV file containing the dataset used for training and testing the model. You can download the original dataset from [Kaggle](https://www.kaggle.com/datasets/mustafaimam/used-car-prices-in-pakistan-2021).
