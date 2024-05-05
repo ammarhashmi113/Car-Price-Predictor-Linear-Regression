@@ -1,4 +1,5 @@
 # CarPricePredictor_LinearRegression
+
 ## Car Price Recommendation System using Linear Regression
 This project implements a machine learning model to predict the price of cars based on various features. The model is built using the scikit-learn library in Python and utilizes a Linear Regression algorithm. Categorical features are encoded using the One Hot Encoding technique.
 
